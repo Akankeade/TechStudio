@@ -25,6 +25,7 @@ const Fundamental = () => {
                     <p>You'll learn to use the Git version control system, collaborate with other team members and push your projects to GitHub using Git <br /><br />Register To Get The Complete Course Package.</p>
 
                     <div className="experience">
+                        {/* eslint-disable-next-line */}
                         <button><a href="#">Get Program Package</a></button></div>
                     </div>
 

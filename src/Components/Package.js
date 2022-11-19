@@ -21,6 +21,7 @@ const Package = () => {
                             <br /><br />
                             Interested in viewing more details on the program?</p>
 
+                        {/* eslint-disable-next-line */}
                         <button><a href="#">Get Program Package</a></button>
 
                     </div>

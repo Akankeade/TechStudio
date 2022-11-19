@@ -20,6 +20,7 @@ const Login = () => {
 
         <button className='mb-2'>Continue</button>
         <br />
+        {/* eslint-disable-next-line */}
         <a href="">Forget Your Password?</a>
 
 

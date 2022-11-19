@@ -1,0 +1,74 @@
+.bg{
+    background-image: url(../images/bg.jpg);
+    padding: 80px ;
+    /* background-position: center;
+    background-size: cover; */
+}
+
+.header-wrapper{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 40px;
+    justify-content: flex-start;
+}
+
+.header-wrapper div{
+    color: white;
+}
+
+.bg-text p{
+    color: rgb(183, 181, 181);
+}
+
+.location{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+.bg-form{
+    background-color: white;
+    padding: 80px -10px;
+    padding-bottom: 30px;
+}
+
+.bg-form h5{
+    color: black;
+}
+
+.bg-form input{
+    width: 60%;
+    border: 1px solid black;
+    padding: 10px 10px
+}
+
+@media only screen and (max-width : 768px) {
+    .header-wrapper{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+@media only screen and (max-width : 418px){
+    .bg-text h1{
+        font-size: 16px;
+    }
+} 
+
+@media only screen and (max-width : 386px){
+    .bg-text p{
+        font-size: 12px;
+        font-weight: 600;
+    }
+} 
+
+@media only screen and (max-width : 471px){
+    .bg-form input{
+        width: 75%;
+    }
+} 
+
+@media only screen and (max-width : 361px){
+    .experience button{
+       width: 50%;
+    }
+} 

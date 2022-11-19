@@ -1,0 +1,12 @@
+.reviews img{
+    width: 110px;
+    border-radius: 100%;
+}
+
+.reviews p{
+    font-size: 18px;
+}
+
+.reviews span{
+    font-weight: 100;
+}

@@ -1,0 +1,40 @@
+.package img{
+    width: 90%;
+}
+
+.package{
+    background-color: whitesmoke;
+    padding: 25px 0px;
+}
+
+.experience button{
+    border: none;
+    background-color: #007bff;
+    text-transform: capitalize;
+    font-family: walsheim,sans-serif;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+
+.experience a{
+    color: white;
+    text-decoration: none;
+}
+
+.package button{
+    border: none;
+    background-color: #007bff;
+    text-transform: capitalize;
+    font-family: walsheim,sans-serif;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
+
+.package a{
+    color: white;
+    text-decoration: none;
+}
+
+.lorem{
+    visibility: hidden;
+}

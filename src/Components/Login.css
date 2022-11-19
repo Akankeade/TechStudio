@@ -1,0 +1,61 @@
+.email input{
+    width: 33%;
+    height: 50px;
+    border: none;
+    background-color: rgb(193, 190, 190);
+    color: black;
+    /* margin: auto; */
+}
+
+.Login button{
+    width: 33%;
+    height: 50px;
+    border: none;
+    background-color: #007bff;
+}
+
+.Login a{
+    text-decoration: none;
+}
+
+.log{
+    width: 100%;
+}
+
+.register img{
+    border-radius: 100px;
+}
+.line{
+    line-height: 10px;
+}
+
+.reg input{
+    border: none;
+    background-color: rgb(193, 190, 190);
+    width: 65%;
+    height: 50px;
+}
+
+.reg select{
+    border: none;
+    background-color: rgb(193, 190, 190);
+    width: 65%;
+    height: 50px;
+}
+
+.pass input{
+    border: none;
+    background-color: rgb(193, 190, 190);
+    height: 40px;
+    width: 100%;
+}
+.navimg img{
+    width: 40%;
+    background-color: #007bff;
+}
+
+@media only screen and (max-width : 992px) {
+.pass input{
+    width: 65%;
+}
+}

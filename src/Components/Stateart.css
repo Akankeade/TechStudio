@@ -1,0 +1,61 @@
+  .stateart img{
+    width: 100%;
+    /* height: 700px; */
+}
+
+.stateart{
+    background-color: whitesmoke;
+}
+
+.white-red{
+    background-color: #007bff;
+    padding: 30px 30px;
+}
+
+.java{
+    font-size: 40px;
+    font-weight: 100;
+}
+
+.started{
+    background-color: white;
+    padding: 15px 35px;
+}
+
+.red{
+    background-color: #dc3545;
+    padding-bottom: 35px;
+}
+
+.red li{
+    color: white;
+}
+
+.red h3{
+    color: white;
+}
+
+.red p{
+    color: white;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.red button{
+    border: none;
+    padding: 12px 60px;
+    background-color: #007bff;
+    border-radius: 8px;
+}
+
+.red button a{
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+/* .world{
+    background-color: white;
+    box-shadow: 3px 3px rgb(245, 244, 244), -3px -3px rgb(245, 244, 244);
+    padding: 40px 40px;
+    transform: translateX(-70px);
+}  */

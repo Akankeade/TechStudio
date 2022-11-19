@@ -1,0 +1,44 @@
+.reason img{
+    height: 90%;
+}
+
+.blue{
+    display: block;
+}
+
+.b{
+    width: 45px;
+    height: 5px;
+    background-color: blue;
+    display: block;
+    margin: auto;
+}
+
+.smile img{
+    width: 85%;
+}
+
+.inter{
+    background-color: whitesmoke;
+    padding: 40px 30px;
+}
+
+.inter h5{
+    line-height: 35px;
+}
+
+.inter button{
+  border: none;
+  color: blue;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.get{
+    background-color: rgb(79, 79, 219);
+    width: 65%;
+    margin: auto;
+    padding: 30px 30px;
+    border-radius: 7px;
+}

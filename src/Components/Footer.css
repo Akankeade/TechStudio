@@ -1,0 +1,35 @@
+.footer {
+    background-color: black;
+    padding: 35px;
+}
+
+.info img {
+    width: 8%;
+}
+
+.info p{
+    line-height: 15px;
+    font-weight: 100;
+}
+
+.footer input{
+    /* padding: 10px 55px; */
+    width: 90%;
+    height: 50px;
+}
+
+.footer button{
+    margin-top: 7px;
+    border: none;
+    color: white;
+    font-size: 15px;
+    background-color: #007bff;
+    width: 89.7%;
+    height: 50px;
+}
+
+/* footer li{
+    display: inline-block;
+    list-style-type: none;
+    margin-right: 10px;
+} */
